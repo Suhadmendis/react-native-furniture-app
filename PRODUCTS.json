@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Mod Hippo Chair",
+      "price": "$126.34",
+      "color": "Walnut and Cream",
+      "imageUrl": "images/mod_hippo_chair.png"
+    },
+    {
+      "id": "2",
+      "name": "Eiffel Side Chairs Wood",
+      "price": "$126.34",
+      "color": "Dove, Set of 2 Orange",
+      "imageUrl": "images/eiffel_side_chairs.png"
+    },
+    {
+      "id": "3",
+      "name": "Plush Accent Chair",
+      "price": "$126.34",
+      "color": "Light Grey",
+      "imageUrl": "images/plush_accent_chair.png"
+    },
+    {
+      "id": "4",
+      "name": "Remark Arm Chair",
+      "price": "$126.34",
+      "color": "Yellow",
+      "imageUrl": "images/remark_arm_chair.png"
+    }
+  ]
