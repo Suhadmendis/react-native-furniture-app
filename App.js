@@ -5,7 +5,7 @@ import Screen2 from "./src/components/screens/screen2";
 
 export default function App() {
   return (
-    <Screen2 />
+    <Screen1 />
   );
 }
 
